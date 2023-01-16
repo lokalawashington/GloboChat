@@ -4,6 +4,7 @@
     <!-- Settings Page -->
     <string name="title_general">General</string>
     <string name="title_status">Status</string>
+    <string name="title_dialog_status">Update status</string>
     <string name="title_auto_reply">Auto reply</string>
     <string name="title_dialog_reply_time">Select Time</string>
     <string name="title_auto_reply_time">Auto reply time</string>
